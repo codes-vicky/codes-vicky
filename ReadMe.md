@@ -16,7 +16,7 @@ Hi, I'm Gaurav 👋<br>👋🚀Tech Enthusiast & Full Stack Developer 👨‍�
 ![](https://github-profile-trophy.vercel.app/?username=codes-vicky&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021130712607)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=black)](https://www.facebook.com/profile.php?id=100021130712607)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vicky_888763/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-yadav-89306631a)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/gy944307/)
