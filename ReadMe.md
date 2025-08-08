@@ -9,10 +9,17 @@
 
 🚀 Passionate Web Developer...
 
+<p align="center">
+  <img src="https://github.com/codes-vicky/codes-vicky/blob/main/coderanimation.gif?raw=true" alt="Coder Animation" width="300" />
+</p>
 
 # 💫 About Me:
 Hi, I'm Gaurav 👋<br>👋🚀Tech Enthusiast & Full Stack Developer 👨‍💻✨<br>👋 A passionate Full Stack Developer with a strong foundation in MERN Stack, JavaScript, and Web Development 🌍💡. I love transforming ideas into reality through clean and efficient code. 🚀<br><br>🎓 Education & Learning:<br>📚 I have completed my Master of Computer Applications (MCA) from Dr. A.P.J. Abdul Kalam Technical University, Lucknow 🎓📖.<br>🖥️ Before that, I did B.Sc. (PCM) from Veer Bahadur Singh Purvanchal University, Jaunpur. 📘🔬<br><br>💻 Tech Stack & Skills:<br>🔹 Frontend: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind 🎨⚡<br>🔹 Backend: Node.js, Express.js, REST APIs 🛠️🔄<br>🔹 Databases: MySQL, MongoDB, SQL Server 🗄️🔍<br>🔹 Languages: JavaScript, Python, C 📜🚀<br>🔹 DevOps: GitHub Actions, Docker 🐳⚙️<br>🔹 Tools & Platforms: Git, VS Code, Trello, Netlify 🛠️🖥️<br><br>🛠️ Projects & Experience:<br>✅ Built a Rental Property Website, E-commerce Website, Gaming Website, and Portfolio using modern web technologies. 🏡🛒🎮<br>✅ Developed a Jarvis Virtual Assistant using Gemini API with React and hosted it on Netlify. 🤖💬DEMO LIVE-https://jarvis888.netlify.app/<br>✅ Gained hands-on experience in web development internships at purpul digital private limited, and currently at purpul digital company. 👨‍💻<br><br>🚀 Passionate About:<br>🔹 Creating user-friendly web experiences 🌟<br>🔹 Exploring MERN Stack & Cloud Technologies ☁️<br>🔹 Learning 
  Backend technologies & DevOps & Automation 🛠️🤖<br>🔹 Contributing to open-source projects 🏆<br><br>💡 Motto: "Keep Learning, Keep Building, Keep Growing!" 🌱📈<br><br>📬 Let’s Connect!<br>Let's collaborate and build something amazing! 🚀🤝 Find me on GitHub & LinkedIn-https://www.linkedin.com/in/gaurav-yadav-89306631a/
+ 
+ <p align="center">
+  <img src="https://github.com/codes-vicky/codes-vicky/blob/main/Code%20typing%20concept.gif?raw=true" alt="Code Typing Concept" width="300" />
+</p>
 
 <h3 align="center">🔝 Top Contributed Repo</h3>
 <p align="center">
