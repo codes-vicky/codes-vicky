@@ -10,7 +10,7 @@
 🚀 Passionate Web Developer...
 
 <p align="center">
-  <img src="https://github.com/codes-vicky/codes-vicky/blob/main/coderanimation.gif?raw=true" alt="Coder Animation" width="300" />
+  <img src="https://github.com/codes-vicky/codes-vicky/blob/main/coding.gif?raw=true" alt="Coder Animation" width="300" />
 </p>
 
 # 💫 About Me:
