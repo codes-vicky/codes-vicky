@@ -3,7 +3,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-vicky-dev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+<img src="https://github.com/codes-vicky/codes-vicky/blob/main/3D%20Splitscreen%20Doctor%20and%20Patient.jpeg?raw=true" alt="3D Splitscreen Doctor and Patient" />
+
 </p>
 
 
