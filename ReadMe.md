@@ -2,25 +2,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=FF00FF&center=true&vCenter=true&width=750&lines=👋+Hey+there,+welcome+to+my+GitHub+🌐;🙋‍♂️+I'm+Gaurav+Yadav+💫;💻+Full+Stack+/+MERN+Stack+Developer+⚙️;🚀+Building+cool+projects+with+passion+🔥;📚+Always+learning,+always+growing+🎯" alt="Typing SVG" />
 </div>
 
-<p align="center">
-<img src="https://github.com/codes-vicky/codes-vicky/blob/main/3D%20Splitscreen%20Doctor%20and%20Patient.jpeg?raw=true" alt="3D Splitscreen Doctor and Patient" />
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=codes-vicky&label=Profile%20views&color=blue&style=for-the-badge" alt="codes-vicky" /> 
 </p>
 
 
 🚀 Passionate Web Developer...
 
 <p align="center">
-  <img src="https://github.com/codes-vicky/codes-vicky/blob/main/coding.gif?raw=true" alt="Coder Animation" width="300" />
+  <img src="https://raw.githubusercontent.com/codes-vicky/codes-vicky/main/Search%20Projects%20__%20Photos%2C%20videos%2C%20logos%2C%20illustrations%20and%20branding.gif" alt="Coder Animation" width="600" height="260" />
 </p>
+
 
 # 💫 About Me:
 Hi, I'm Gaurav 👋<br>👋🚀Tech Enthusiast & Full Stack Developer 👨‍💻✨<br>👋 A passionate Full Stack Developer with a strong foundation in MERN Stack, JavaScript, and Web Development 🌍💡. I love transforming ideas into reality through clean and efficient code. 🚀<br><br>🎓 Education & Learning:<br>📚 I have completed my Master of Computer Applications (MCA) from Dr. A.P.J. Abdul Kalam Technical University, Lucknow 🎓📖.<br>🖥️ Before that, I did B.Sc. (PCM) from Veer Bahadur Singh Purvanchal University, Jaunpur. 📘🔬<br><br>💻 Tech Stack & Skills:<br>🔹 Frontend: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind 🎨⚡<br>🔹 Backend: Node.js, Express.js, REST APIs 🛠️🔄<br>🔹 Databases: MySQL, MongoDB, SQL Server 🗄️🔍<br>🔹 Languages: JavaScript, Python, C 📜🚀<br>🔹 DevOps: GitHub Actions, Docker 🐳⚙️<br>🔹 Tools & Platforms: Git, VS Code, Trello, Netlify 🛠️🖥️<br><br>🛠️ Projects & Experience:<br>✅ Built a Rental Property Website, E-commerce Website, Gaming Website, and Portfolio using modern web technologies. 🏡🛒🎮<br>✅ Developed a Jarvis Virtual Assistant using Gemini API with React and hosted it on Netlify. 🤖💬DEMO LIVE-https://jarvis888.netlify.app/<br>✅ Gained hands-on experience in web development internships at purpul digital private limited, and currently at purpul digital company. 👨‍💻<br><br>🚀 Passionate About:<br>🔹 Creating user-friendly web experiences 🌟<br>🔹 Exploring MERN Stack & Cloud Technologies ☁️<br>🔹 Learning 
  Backend technologies & DevOps & Automation 🛠️🤖<br>🔹 Contributing to open-source projects 🏆<br><br>💡 Motto: "Keep Learning, Keep Building, Keep Growing!" 🌱📈<br><br>📬 Let’s Connect!<br>Let's collaborate and build something amazing! 🚀🤝 Find me on GitHub & LinkedIn-https://www.linkedin.com/in/gaurav-yadav-89306631a/
  
- <p align="center">
-  <img src="https://github.com/codes-vicky/codes-vicky/blob/main/Code%20typing%20concept.gif?raw=true" alt="Code Typing Concept" width="300" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codes-vicky/codes-vicky/main/download.gif" alt="Coder Animation" width="500" height="288" />
 </p>
+
 
 <h3 align="center">🔝 Top Contributed Repo</h3>
 <p align="center">
@@ -115,6 +116,15 @@ Hi, I'm Gaurav 👋<br>👋🚀Tech Enthusiast & Full Stack Developer 👨‍�
   <a href="https://visitcount.itsvg.in">
   </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codes-vicky/codes-vicky/main/Netas%20Academy.gif" alt="Coder Animation" width="600" height="280" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=FFF44F&center=true&vCenter=true&width=750&lines=🙏+Thank+you+for+visiting+my+GitHub+Profile!+💖;✨+Your+time+here+means+a+lot+to+me!+🚀;💡+Keep+exploring+and+stay+awesome!+🌟" alt="Typing SVG" />
+</div>
+
 
 ## 🎨 my contributioon:
 
