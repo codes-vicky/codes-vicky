@@ -122,7 +122,7 @@ Hi, I'm Gaurav 👋<br>👋🚀Tech Enthusiast & Full Stack Developer 👨‍�
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=FFF44F&center=true&vCenter=true&width=750&lines=🙏+Thank+you+for+visiting+my+GitHub+Profile!+💖;✨+Your+time+here+means+a+lot+to+me!+🚀;💡+Keep+exploring+and+stay+awesome!+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=750&lines=🙏+Thank+you+for+visiting+my+GitHub+Profile!+💖;✨+Your+time+here+means+a+lot+to+me!+🚀;💡+Keep+exploring+and+stay+awesome!+🌟" alt="Typing SVG" />
 </div>
 
 
