@@ -104,6 +104,11 @@ Hi, I'm Gaurav 👋<br>👋🚀Tech Enthusiast & Full Stack Developer 👨‍�
 
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codes-vicky/codes-vicky/main/banner%20gaurav.gif" alt="Coder Animation" width="800" height="350" />
+</p>
+
+
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
